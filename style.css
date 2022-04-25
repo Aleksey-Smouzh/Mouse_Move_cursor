@@ -13,11 +13,11 @@ body{
     cursor: pointer;
 }
 
-.content p {
+.content p{
 height: 700px;
 line-height:  26px;
 font-size: 18px;
-text-align: justify;
+text-align: center;
 }
 
 .cursor {
